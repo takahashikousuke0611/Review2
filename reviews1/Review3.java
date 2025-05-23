@@ -7,3 +7,4 @@ public class Review3 {
         System.out.println("7"+3*2+5+6/2);
     }
 }
+
