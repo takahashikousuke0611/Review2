@@ -12,4 +12,5 @@ public class Review9 {
         System.out.println("こんにちは。");
 
     }
+
 }
