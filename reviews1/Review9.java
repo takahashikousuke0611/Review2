@@ -10,7 +10,6 @@ public class Review9 {
         int age = Integer.parseInt(br.readLine());
 
         System.out.println("こんにちは。");
-
     }
 
 }
