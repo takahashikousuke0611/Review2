@@ -5,7 +5,7 @@ public class Review9 {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
         System.out.print("名前を入力してください。");
-        String inputName = br.readLine();
+        String InputName = br.readLine();
         System.out.print("年齢を入力してください。");
         int age = Integer.parseInt(br.readLine());
 
