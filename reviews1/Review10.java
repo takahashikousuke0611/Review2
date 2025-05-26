@@ -8,6 +8,5 @@ public class Review10 {
     } else {
             System.out.println("この数は正の数ではありません。");
         }
-
     }
 }
