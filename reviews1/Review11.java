@@ -6,4 +6,5 @@ public class Review11 {
         if(num % 10 >=1){
         System.out.println()
     }
+
 }
