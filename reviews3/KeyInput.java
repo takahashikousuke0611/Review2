@@ -2,6 +2,8 @@ package reviews.reviews3;
 
 import java.io.*;
 public class KeyInput {
+    public String readString;
+
     public String readString() {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String inputStr = "";
