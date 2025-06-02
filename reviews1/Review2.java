@@ -6,5 +6,4 @@ public class Review2 {
         System.out.println(90+5-4+"5"+(5-10));
         System.out.println(90 + 5-5+"50");
     }
-
 }

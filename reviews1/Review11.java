@@ -2,9 +2,12 @@ package reviews.reviews1;
 
 public class Review11 {
     public static void main(String[] args) {
-        int num = 2;
-        if(num % 10 >=1){
-        System.out.println()
+        int num = 80;
+        if(num % 10 >=1) {
+            System.out.println("この数は10で割り切れない値です。");
+        } else {
+            System.out.println("この数は10で割り切れる値です。");
+        }
     }
-
 }
+
